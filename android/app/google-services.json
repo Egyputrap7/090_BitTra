@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651463770630",
+    "project_id": "bitras-dddb4",
+    "storage_bucket": "bitras-dddb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651463770630:android:4a41e17f4c278802103987",
+        "android_client_info": {
+          "package_name": "com.example.project_bitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651463770630-0oamai58ce1u2483vv9r2rs0nte9ql0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgVTPTComt7kSOlXMgoV-UOYiuQEg2IKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651463770630-0oamai58ce1u2483vv9r2rs0nte9ql0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
